@@ -1,0 +1,3 @@
+C:\Users\Luis\Desktop\Programación II\semana 12\mover5\mover5\Debug\mover5.MyForm.resources
+C:\Users\Luis\Desktop\Programación II\semana 12\mover5\mover5\Debug\mover5.vcxproj.GenerateResource.cache
+C:\Users\Luis\Desktop\Programación II\semana 12\mover5\mover5\Debug\mover5.vcxprojAssemblyReference.cache
